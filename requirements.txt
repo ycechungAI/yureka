@@ -1,10 +1,10 @@
 attrs==17.3.0
 jupyter==1.0.0
-lmdb==0.94
-numpy==1.14.0
+lmdb==0.98
+numpy==1.22.0
 pandas==0.21.1
 pytest==3.3.1
 python-chess==0.22.0
 sklearn==0.0
-torch==1.0.0
+torch==1.13.1
 torchvision==0.2.1
